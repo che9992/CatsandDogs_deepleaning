@@ -14,6 +14,14 @@ and i used custom batch generator for batch, you also can check it
 
 and datas from kaggle 'https://www.kaggle.com/tongpython/cat-and-dog'
 
+## main_with_google_inception
+
+I used only two of google inception modules, 
+
+simple explain what is inception, difference google inception
+
+The test accuracy is 73%
+
 
 ## my environment 
 
